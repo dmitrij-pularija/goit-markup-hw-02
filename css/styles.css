@@ -155,7 +155,7 @@ body {
 }
 
 .contacts-bottom-link:hover,
-.contacts-bottom-link-:focus {
+.contacts-bottom-link:focus {
     color: var(--hover-color);
 }
 
